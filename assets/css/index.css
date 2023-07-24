@@ -14,8 +14,8 @@
     z-index: -1;
 }
 video {
-    width: 100%;
-    height: auto;
+    width: auto;
+    height: 100%;
   }
 .customButton{
     padding: 0 25px;
